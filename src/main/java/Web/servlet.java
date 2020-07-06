@@ -63,7 +63,10 @@ public class servlet extends HttpServlet {
         conexion con = new conexion();
         con.create(forml);
         
+        //con.consultaSaldo(1);
         
+        //con.consultaSaldos();
+        //con.verificar();
     }   
     
     
